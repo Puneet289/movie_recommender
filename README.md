@@ -1,0 +1,3 @@
+MOVIES RECOMMENDER SYSTEM
+It recommends movies based on the trends..
+It has a python file and data and item files...
